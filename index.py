@@ -1,6 +1,6 @@
 import os
 from twilio.rest import Client
-from dotenv import load_dotenv, dotenv_values
+from dotenv import load_dotenv
 
 load_dotenv()  # take environment variables from .env.
 
@@ -12,11 +12,11 @@ from_whatsapp_number = os.getenv('TWILIO_NUMBER')
 # NUMBER PERSONAL 
 to_whatsapp_number = os.getenv('PERSONAL_NUMBER')
 
-message = client.messages.create( 
-                              from_='whatsapp:+14155238886',  
-                              body='Hola como estas',      
-                              to='whatsapp:+593983551848' 
-                          ) 
+message = client.messages.create(
+                            from_='whatsapp:+14155238886',  
+                            body='Hola como estas',      
+                            to='whatsapp:+593983551848' 
+                            ) 
 
 print(message.sid)
 
