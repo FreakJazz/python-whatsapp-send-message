@@ -18,3 +18,13 @@ Time: 14:23
 Phone Number: +593983419941
 Message: Test send message automatic?
 --------------------
+Date: 21/5/2022
+Time: 14:48
+Phone Number: +593964091474
+Message: Test send message automatic?
+--------------------
+Date: 21/5/2022
+Time: 15:39
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------
