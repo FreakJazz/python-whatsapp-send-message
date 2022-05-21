@@ -1,0 +1,20 @@
+Date: 21/5/2022
+Time: 14:14
+Phone Number: +593964091474
+Message: Hi, how are you?
+--------------------
+Date: 21/5/2022
+Time: 14:15
+Phone Number: +593964091474
+Message: Hi, how are you?
+--------------------
+Date: 21/5/2022
+Time: 14:21
+Phone Number: +593964091474
+Message: Hi, how are you?
+--------------------
+Date: 21/5/2022
+Time: 14:23
+Phone Number: +593983419941
+Message: Test send message automatic?
+--------------------
