@@ -28,3 +28,28 @@ Time: 15:39
 Phone Number: +593964091474
 Message: Test send message automatic
 --------------------
+Date: 23/5/2022
+Time: 16:21
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------
+Date: 23/5/2022
+Time: 16:23
+Phone Number: +593964091474
+Message: Funciona luego de un tiempo
+--------------------
+Date: 23/5/2022
+Time: 16:25
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------
+Date: 23/5/2022
+Time: 16:27
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------
+Date: 23/5/2022
+Time: 16:28
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------

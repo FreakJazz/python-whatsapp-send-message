@@ -4,4 +4,4 @@ wassup_url = r'https://web.whatsapp.com/send?phone={ur_mobile_number}&text&app_a
 
 driver = webdriver.Chrome(r'C:\Users\jay\Desktop\PythonInOffice\amazon_price_alert_bot\chromedriver.exe')
 
-driver.get(wassup_url )
+driver.get(wassup_url)
