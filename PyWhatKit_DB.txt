@@ -53,3 +53,8 @@ Time: 16:28
 Phone Number: +593964091474
 Message: Test send message automatic
 --------------------
+Date: 11/6/2022
+Time: 20:53
+Phone Number: +593964091474
+Message: Test send message automatic
+--------------------
