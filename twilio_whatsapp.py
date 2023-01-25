@@ -13,9 +13,10 @@ from_whatsapp_number = os.getenv('TWILIO_NUMBER')
 to_whatsapp_number = os.getenv('PERSONAL_NUMBER')
 
 message = client.messages.create(
-                            body='Hola como estas',      
-                            from_='+14155238886',  
-                            to='+593983551848') 
+                            media_url=['/static/Loading-Resultados-02.gif']
+                            body='Hola te invito a ver este video',      
+                            from_='whatsapp:+14155238886',  
+                            to='whatsapp:+593987016344') 
 
 print(message.sid)
 
